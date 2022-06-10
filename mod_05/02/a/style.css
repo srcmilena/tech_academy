@@ -1,0 +1,28 @@
+p {
+    border: 1px solid red;
+    background-color: pink;
+    margin: 10px;
+}
+
+p.ex1 {
+    display: none; /* O elemento não está presente e não deixa o espaço do elemento */
+}
+
+p.ex1a {
+    visibility: hidden; /* O elemento está presente porém, ocultado. Mas, deixa o espaço do elemento 
+    ! Mais utilizado quando, algum elemento compromete a estrutura da página */ 
+}
+
+p.ex2 {
+    display: inline; /* Ocupa apenas esse espaço na linha e não aceita os atributos de altura e largura */
+
+}
+
+p.ex3 {
+    display: block; /* Por padrão o parágrafo usa o display block, ou seja, ocupa a linha toda */
+}
+
+p.ex4 {
+    display: inline-block; /* Aceita os atributos de altura e largura */
+    width: 300px;
+}

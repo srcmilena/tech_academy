@@ -1,0 +1,46 @@
+div.relative {
+    position: relative; /* Se remover esse atributo, o elemento passará a ser estático e não respeitará os valores left, top... */
+    left: 30px; /* Afasta da margem esquerda e "empurra" 30px para o lado direito */
+    width: 300px; /* Define um tamanho */
+    height: 50px;
+    background: pink;
+    /* opacity: .5; */
+    border: 3px solid #73AD21;
+}
+
+div.fixed {
+    position: fixed;
+    /*bottom: 0;
+    right: 0;*/
+    top: 100px;
+    left: 100px;
+    width: 300px;
+    background-color: pink;
+    border: 3px solid #73AD21;
+}
+
+div.absolute { /* É absoluto dentro de outro elemento */
+    position: absolute;
+    top: 280px;
+    left: 25%;
+    width: 50%;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+div.sticky { /* Rola a partir desse elemento
+    * É um elemento fixo que passa a ser relativo */
+    position: -webkit-sticky; /* 2 Safari */
+    position: sticky; /* 1 Safari não entende essa propriedade*/
+    margin-top: 10px;
+    top: 0;
+    background-color: green;
+    border: 2px solid #4CAF50;
+}
+
+#bloco {
+    position: relative;
+    height: 100px;
+    overflow-y: scroll;
+    border: 1px solid red;
+}
