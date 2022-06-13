@@ -1,0 +1,14 @@
+#page {
+    height: 300px;
+    background-color: pink;
+}
+
+#page div {
+    box-sizing: border-box; /*Se adapta ao elemento que faz parte*/
+    border: 1px dashed red;
+    display: inline-block; /*Gera espaço entre os elementos*/
+    width: 50%;
+    height: 100%;
+    margin: 0;
+    padding: 30px;
+}

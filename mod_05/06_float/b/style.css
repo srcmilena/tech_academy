@@ -1,0 +1,21 @@
+#page {
+    background-color: pink;
+    height: 300px;
+}
+
+#page div {
+    box-sizing: border-box;
+    float: left;
+    border: 1px solid red;
+    height: 100%;
+    padding: 10px;
+}
+
+/*.col3 { width: 30%; }
+.col4 { width: 40%; }*/
+
+#cabecalho {
+    min-height: 100px;
+    background: yellow;
+    margin-bottom: 10px;
+}
