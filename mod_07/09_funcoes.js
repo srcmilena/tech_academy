@@ -9,7 +9,7 @@ function exibirMensagem(primeiroNome, ultimoNome) { // sugestão: nome da funç�
 
 // para que a função funcione, precisamos fazer a chamada. ou seja, invocação. para isso, usamos apenas o nome e "()"
 
-exibirMensagem('Milena', 'Brito'); // invocação da função
+exibirMensagem('Tatiana', 'Maslany'); // invocação da função
 // valor dentro do "()" = argumento; nesse caso tem que passar 2 valores (se são 2 variáveis)
 
 // parâmetro declara
@@ -19,6 +19,8 @@ function mediaAritmeticaSimples(a, b) {
     let m = (a + b)/2; // ao declarar uma variável dentro do bloco, ela fica restrita ao uso dentro da função e por isso usamos o return
     return m;
     // usamos o return quando queremos que uma variável declarada dentro de uma função seja exibida fora do bloco
+
+    // ? se eu não usasse o "return", não seria possível exibir no console.log?
 }
 
 // mediaAritmeticaSimples(10, 5); // não vai aparecer o resultado aqui pois não estamos pedindo para que apareça e sim apenas chamamos a função
