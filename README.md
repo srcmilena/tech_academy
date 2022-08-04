@@ -1,64 +1,64 @@
-# StartSe Tech Academy
-O programa tem duração de 11 semanas e é dividido em 11 módulos de aprendizagem, com carga horária total de 100h – 100% online com encontros ao vivo toda semana.
+# Tech Academy (StartSe)
+The bootcamp lasts 11 weeks and is divided into 11 learning modules, with a total workload of 100 hours - 100% online with live meetings every week.
 
-### Módulo 1
-- Sistemas e aplicação
-
-***
-
-### Módulo 2
-- Linguagens de programação
+### Module 1
+- Introduction, systems and applications
 
 ***
 
-### Módulo 3
-
-- Aprendendo elementos do HTML
-
-***
-
-### Módulo 4
-
-- Aprendendo CSS
+### Module 2
+- Programming languages
 
 ***
 
-### Módulo 5
+### Module 3
 
-- Elementos da página
+- Learning HTML elements
+
+***
+
+### Module 4
+
+- Learning CSS
+
+***
+
+### Module 5
+
+- Page elements
 
 ****
 
-### Módulo 6
+### Module 6
 
-- Elementos da página e Git
+- Introduction to Git
 
 ****
 
-### Módulo 7
+### Module 7
 
 - JavaScript
 
 ****
 
-### Módulo 8
+### Module 8
 
-- HTML semântico e FlexBox
+- Semantic HTML and FlexBox
 
 ****
 
-### Módulo 9
+### Module 9
 
 - Programação orientada a objetos
 
 ****
 
-### Módulo 10
+### Module 10
 
 - Node.js
 
 ****
 
-### Módulo 11
+### Module 11
 
 - SQL
